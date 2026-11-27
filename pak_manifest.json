@@ -4,5 +4,53 @@
   "download_url": "https://github.com/hussam8al/fps-profiles/releases/download/v4.7.0/game_patch_4.7.0.21753.pak",
   "sha256": "d59e8c94c4781b19547cbb60fbd619f648c65869fc921375b03b7723ceef6929",
   "size_bytes": 6230777,
-  "working": true
+  "working": true,
+  "editions": {
+    "pubg": {
+      "version": 470,
+      "pak_name": "game_patch_4.7.0.21753.pak",
+      "download_url": "https://github.com/hussam8al/fps-profiles/releases/download/v4.7.0/pubg.zip",
+      "sha256": "467ac9069010d26653ac3b46baa56620653f924b835c43ccbcb3c656f3fd1d5b",
+      "size_bytes": 6292311,
+      "offset": 274608,
+      "model_string": "SM-F946D|SM-F946W|SM-F946U1|SM-F946BE|SM-F946N|SM-F946B",
+      "string_length": 55,
+      "key": "nE1jQ6qK5tW7rM8iD5vV53",
+      "comp": 6,
+      "max_block_bytes": 7152,
+      "supports_165fps": true,
+      "working": true
+    },
+    "bgmi": {
+      "version": 470,
+      "pak_name": "game_patch_4.7.0.21753.pak",
+      "download_url": "https://github.com/hussam8al/fps-profiles/releases/download/v4.7.0/bgmi.zip",
+      "sha256": "b10563e6f234f10f35656189495ff0b52f39e892613eb29458a25d4e55ce3f5b",
+      "size_bytes": 6253161,
+      "offset": 1855440,
+      "model_string": "SM-S9210|SM-S921B|SM-S921B/DS|SM-S921U|SM-S921U1|SM-S921W",
+      "string_length": 57,
+      "key": "nE1jQ6qK5tW7rM8iD5vV53",
+      "comp": 6,
+      "max_block_bytes": 6352,
+      "supports_165fps": true,
+      "working": true
+    },
+    "flash": {
+      "version": 461,
+      "pak_name": "game_patch_4.6.1.21602.pak",
+      "download_url": "https://github.com/hussam8al/fps-profiles/releases/download/v4.7.0/flash.zip",
+      "sha256": "9eb4501f996967800828d2294aad1d5d5a4c5e7f8935c488bd80cecc7a4a6db0",
+      "size_bytes": 5012729,
+      "offset": 411136,
+      "model_string": "SM-F946D|SM-F946W|SM-F946U1|SM-F946BE|SM-F946N|SM-F946B",
+      "string_length": 55,
+      "key": "wD2rP3lP9xF4mE1eC5jS50",
+      "comp": 1,
+      "max_block_bytes": 8080,
+      "supports_165fps": true,
+      "working": true
+    }
+  }
 }
+
