@@ -4,7 +4,7 @@
   "download_url": "https://raw.githubusercontent.com/hussam8al/fps-profiles/main/game_patch_4.7.0.21753.pak",
   "sha256": "d59e8c94c4781b19547cbb60fbd619f648c65869fc921375b03b7723ceef6929",
   "size_bytes": 6230777,
-  "working": false,
+  "working": true,
   "editions": {
     "pubg": {
       "version": 470,
@@ -19,7 +19,7 @@
       "comp": 6,
       "max_block_bytes": 7152,
       "supports_165fps": true,
-      "working": false
+      "working": true
     },
     "bgmi": {
       "version": 470,
@@ -34,7 +34,7 @@
       "comp": 6,
       "max_block_bytes": 6352,
       "supports_165fps": true,
-      "working": false
+      "working": true
     },
     "flash": {
       "version": 461,
@@ -49,7 +49,8 @@
       "comp": 1,
       "max_block_bytes": 8080,
       "supports_165fps": true,
-      "working": false
+      "working": true
     }
   }
 }
+
